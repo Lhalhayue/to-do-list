@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Complete GUI Framework assignment",
+        "priority": "High",
+        "category": "Study",
+        "due_date": "2026-11-12",
+        "completed": false
+    },
+    {
+        "title": "Revise PyQt6 widgets and layouts",
+        "priority": "Medium",
+        "category": "Study",
+        "due_date": "2026-11-14",
+        "completed": false
+    },
+    {
+        "title": "Organise teaching materials",
+        "priority": "Low",
+        "category": "Work",
+        "due_date": "2026-11-16",
+        "completed": true
+    }
+]
